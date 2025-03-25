@@ -1,7 +1,7 @@
 # SSM-JiuZhu
 基于SSM框架的流浪动物猫狗救助领养网站设计
 
-演示视频链接：https://live.csdn.net/v/346879
+演示视频链接：https://www.bilibili.com/video/BV1RC4y1C7i5/
 
 使用的技术
 
